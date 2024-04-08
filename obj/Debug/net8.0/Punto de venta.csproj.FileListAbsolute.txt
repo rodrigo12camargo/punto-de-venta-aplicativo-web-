@@ -1,0 +1,39 @@
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\appsettings.json
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.staticwebassets.runtime.json
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.exe
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.deps.json
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.runtimeconfig.json
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Punto de venta.pdb
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\rocko\source\repos\Punto de venta\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.csproj.AssemblyReference.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.AssemblyInfoInputs.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.AssemblyInfo.cs
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.csproj.CoreCompileInputs.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.RazorAssemblyInfo.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.RazorAssemblyInfo.cs
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets\msbuild.Punto de venta.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets\msbuild.build.Punto de venta.props
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Punto de venta.props
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Punto de venta.props
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\scopedcss\bundle\Punto de venta.styles.css
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\scopedcss\projectbundle\Punto de venta.bundle.scp.css
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de.1B4E928B.Up2Date
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.dll
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\refint\Punto de venta.dll
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.pdb
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\Punto de venta.genruntimeconfig.cache
+C:\Users\rocko\source\repos\Punto de venta\obj\Debug\net8.0\ref\Punto de venta.dll
